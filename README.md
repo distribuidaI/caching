@@ -9,3 +9,6 @@ Copiemos el archivo hosts que está en este directorio al directorio `/etc/hosts
  - Ejemplo básico del uso de los headers de control (como expires y max-age)
  - Uso básico de Memcached
  - Uso básico de Memcached distribuido
+
+## Referencia de PHP + memcached
+http://php.net/manual/en/memcache.addserver.php
