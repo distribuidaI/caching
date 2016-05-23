@@ -3,6 +3,7 @@
 ## Setupeando las Chapu
 
 Copiemos el archivo hosts que está en este directorio al directorio `/etc/hosts` de las chapu.
+Agregar a cada correspondiente chapu en la línea de "localhost"
 
 ## Qué hay en este repo?
 
@@ -11,4 +12,4 @@ Copiemos el archivo hosts que está en este directorio al directorio `/etc/hosts
  - Uso básico de Memcached distribuido
 
 ## Referencia de PHP + memcached
-http://php.net/manual/en/memcache.addserver.php
+http://php.net/manual/es/class.memcached.php
